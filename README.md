@@ -1,2 +1,2 @@
 # Dungeon
-A simple text based rogue-like, designed to be protable to many different languages.
+A simple text based roguelike, designed to be easily translated to many programing languages.
