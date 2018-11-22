@@ -1,4 +1,4 @@
 # Dungeon
-A simple text based roguelike, designed to be easily translated to many programming languages.
+A simple rpg, being with an idea for an experimental design pattern I had.
 
 This project is very much a work in progress.
