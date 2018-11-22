@@ -1,0 +1,1 @@
+Code sections (like imports and starting variables, groups of functions etc) are separeted by 3 lines. Subsections in those sections are seperated by 2 lines.

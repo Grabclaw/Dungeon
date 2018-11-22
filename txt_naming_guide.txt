@@ -1,0 +1,43 @@
+Classes are camel case starting with a captical letter. The fact that they are a class along with their domain is stated before their class name and seprated from the class name with an underscore: 
+
+	UIClass_ClassName | UIClass_ClassyClass | UIClass_HerpaDerpClass
+	GameObjectClass_Class | GameObjectClass_ClassyClass | GameObjectClass_HerpaDerpClass
+	GameMathClass_Class | GameMathClass_ClassyClass | GameMathClass_HerpaDerpClass
+
+
+Scripts are formated the same as Classes, excepr their descriptor starts lowercase:
+
+	uiScript_ScriptName | uiScript_ClassyScript | uiScript_HerpaDerpScript
+	gameObjectScript_Script | gameObjectScript_ClassyScript | gameObjectScript_HerpaDerpScript
+	gameMathScript_Script | gameMathScript_ClassyScript | gameMathScript_HerpaDerpScript
+
+
+Funtions/methods are spaced by underscores, the return type is at the start of the name and followed by its subtype of eithr method (mthd) or normal function (func); this sirname is in camel case starting with a lower case letter. The rest of the name is lowercase with underscores used for spaces:
+
+	funcVoid_func | funcVoid_func_y | funcVoid_func_y_time
+	funcInt_func | funcInt_func_y | funcInt_func_y_time
+	funcString_func | funcString_func_y | funcString_func_y_time
+	
+	mthdVoid_method | mthdVoid_method_y | mthdVoid_method_y_time
+	mthdInt_method | mthdInt_method_y | mthdInt_method_y_time
+	mthdString_method | mthdString_method_y | mthdString_method_y_time
+
+
+Vars are lowercase-starting camel case with the first word always being the type:
+
+	intVar | intVaryVar | intTheMostVar
+	stringVar | stringVaryVar | stringTheMostVar
+	floatVar | floatVaryVar | floatTheMostVar
+
+
+External files are all lowercase with spaces replaced by underscores, and type of file as the the first word:
+
+	folder_name | folder_name_is | folder_name_is_cool
+	image_name | image_name_is | image_name_is_cool
+	txt_name | txt_name_is | txt_name_is_cool
+
+
+
+
+	
+	
